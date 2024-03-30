@@ -9,4 +9,4 @@ Give these 2 APIs
 
  Thge result should be displayed with the image on the left side and the text on the right side, positioned in the middle
 
- 
+ ![Cat image](./public/image.png)
